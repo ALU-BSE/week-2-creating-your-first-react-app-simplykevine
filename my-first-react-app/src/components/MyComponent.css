@@ -1,0 +1,8 @@
+/* src/components/MyComponent.css */
+.my-component {
+  background-color: #2d87d6;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
